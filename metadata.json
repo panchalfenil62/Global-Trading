@@ -1,0 +1,7 @@
+{
+  "name": "Global Trading - Oil & Energy Supply",
+  "description": "Professional B2B oil trading platform specializing in Crude Oil, Diesel EN590, and Jet Fuel A1. Reliable global energy logistics and supply chain solutions.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
